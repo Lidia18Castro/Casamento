@@ -1,0 +1,56 @@
+@import "/src/style/cores";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&family=Playfair:ital@1&display=swap');
+
+.container {
+    font-family: 'Montserrat', sans-serif;
+    top: 30px;
+    background-color: $cor3;
+    display: grid;
+    width: 90%;
+    height: 460px;
+    margin: 15px auto;
+    border-radius: 10px;
+    grid-template-areas:
+        'imagem titulo titulo titulo  numero'
+        'imagem descricao descricao descricao pixcode'
+    ;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.342);
+    color: white;
+
+    
+
+}
+
+.imagem {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    grid-area: imagem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.322);
+
+}
+.pixCode{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 70px;
+    grid-area: pixCode;
+}
+
+.titulo {
+    margin-top: 10px;
+    grid-area: titulo;
+}
+
+.descricao {
+    margin-top: 10px;
+    grid-area: descricao;
+    height: 150px;
+}
+
+.numero {
+    margin-top: 10px;
+    grid-area: numero;
+    justify-self: end;
+}

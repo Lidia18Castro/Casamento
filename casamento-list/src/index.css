@@ -1,0 +1,71 @@
+/* Reset CSS */
+
+/* Definir margens, preenchimento e borda como 0 para todos os elementos */
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* Definir a caixa de modelo para ser o modelo de caixa de borda */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+/* Definir o tamanho da fonte para 100% para melhor consistência em diferentes navegadores */
+html {
+  font-size: 100%;
+}
+
+/* Definir a altura do corpo para ocupar todo o espaço disponível */
+body {
+  height: 100%;
+}
+
+/* Remover os estilos padrão de lista para listas não ordenadas e ordenadas */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Remover estilos de link sublinhado e cor padrão */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Reset de estilos para elementos de cabeçalho */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+/* Limpar estilos de parágrafo */
+p {
+  margin: 0;
+}
+
+/* Limpar estilos de imagem */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Definir estilo padrão para elementos de foco */
+:focus {
+  outline: none;
+}
+
+/* Adicione aqui quaisquer outras regras específicas para o seu reset CSS */
+
+/* Fim do Reset CSS */
+body{background-color: #BBC8DE;}
+*{box-sizing: border-box;}

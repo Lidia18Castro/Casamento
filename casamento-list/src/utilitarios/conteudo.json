@@ -1,0 +1,90 @@
+[
+    {
+        "imagen": "/imagens/imagem-1.jpg",
+        "name": "Cafeteira",
+        "descricao": "",
+        "numero": "300",
+        "id":1,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-2.jpg",
+        "name": "Sofa Retratil",
+        "descricao": "8 partes de R$ 1.800,00",
+        "numero": "225",
+        "id":2,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-3.jpg",
+        "name": "Dia da noiva",
+        "descricao": "5 partes de R$ 1.300,00",
+        "numero": "260",
+        "id":3,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-4.jpg",
+        "name": "Geladeira ",
+        "descricao": "8 partes de R$ 4.000,00",
+        "numero": "500",
+        "id":4,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-5.jpg",
+        "name": "Airfryer",
+        "descricao": "3 partes de R$ 450,00",
+        "numero": "150",
+        "id":5,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-6.jpg",
+        "name": "Aparelho de jantar",
+        "descricao": "2 partes de R$ 500,00",
+        "numero": "250",
+        "id":6,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-7.jpg",
+        "name": "Aspirador de pó vertical",
+        "descricao": "2 partes de R$ 220,00",
+        "numero": "110",
+        "id":7,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-8.jpg",
+        "name": "Barbeiro do noivo",
+        "descricao": "",
+        "numero": 60,
+        "id":8,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-9.jpg",
+        "name": "Caixa de ferramentas",
+        "descricao": "2 partes de R$ 200,00",
+        "numero": "50",
+        "id":9,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-10.jpg",
+        "name": "Cama de casal",
+        "descricao": "5 partes de R$ 1.500,00",
+        "numero": "300",
+        "id":10,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    },
+    {
+        "imagen": "/imagens/imagem-11.jpg",
+        "name": "Cestos organizadores",
+        "descricao": "",
+        "numero": "80",
+        "id":11,
+        "qr": "imagens/qr_code/qrcode-pix_80.jpg"
+    }
+]
