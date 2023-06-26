@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Casamento/static/css/main.1f61aa74.css",
+    "main.js": "/Casamento/static/js/main.b8066d28.js",
+    "index.html": "/Casamento/index.html",
+    "main.1f61aa74.css.map": "/Casamento/static/css/main.1f61aa74.css.map",
+    "main.b8066d28.js.map": "/Casamento/static/js/main.b8066d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f61aa74.css",
+    "static/js/main.b8066d28.js"
+  ]
+}
